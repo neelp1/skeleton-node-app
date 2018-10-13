@@ -1,0 +1,14 @@
+{
+  "name": "ecs-test",
+  "version": "1.0.0",
+  "description": "Sample Docker App",
+  "main": "basic-app.js",
+  "scripts": {
+    "start": "node basic-app.js"
+  },
+  "author": "Neel Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
