@@ -9,6 +9,7 @@
   "author": "Neel Patel",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-healthcheck": "^0.1.0"
   }
 }
