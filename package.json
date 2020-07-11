@@ -1,5 +1,5 @@
 {
-  "name": "ecs-test",
+  "name": "basic-node-app",
   "version": "1.0.0",
   "description": "Sample Docker App",
   "main": "basic-app.js",
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
-    "express-healthcheck": "^0.1.0"
+    "express-healthcheck": "^0.1.0",
+    "node-fetch": "^2.6.0"
   }
 }
